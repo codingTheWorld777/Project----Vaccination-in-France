@@ -1,0 +1,6 @@
+<?php
+
+const DEBUG = FALSE;
+
+?>
+    
