@@ -2,7 +2,7 @@
 
 ### Name of student: Huu Khai NGUYEN
 ### Connect to remote-server: [dev-isi.utt.fr](http://dev-isi.utt.fr/~nguyenh3/lo07_tp/projet)
-(We need to turn on VPN to connect to remote-server)
+(We need to turn on VPN to connect to remote-server, this step is just for a test on the teacher side.)
 
 ## --[EN-Description]--
 ### 1) Introduction
