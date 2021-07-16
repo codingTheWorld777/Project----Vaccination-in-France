@@ -25,6 +25,7 @@ I have to develop a website about the management of vaccination in FRANCE. The a
 
 ### 4) Deployment to Heroku
 - See here: [Vaccination in France](https://vaccination-in-france.herokuapp.com/app/router/router2.php?action=accueil)
+- The host server of mySQL is down. I am so sorry for this problem. I will find the another host to rerender this website...
 
 </p>
 </details>
